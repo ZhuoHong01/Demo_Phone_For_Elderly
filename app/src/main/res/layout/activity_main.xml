@@ -5,4 +5,17 @@
     android:orientation="vertical">
 
 
+    <Button
+        android:id="@+id/buttonCallSon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/son" />
+
+    <Button
+        android:id="@+id/buttonCallDaughter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/daughter" />
 </LinearLayout>
